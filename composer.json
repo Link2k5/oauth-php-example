@@ -1,0 +1,13 @@
+{
+    "name": "sam/oauth-api",
+    "authors": [
+        {
+            "name": "Samuel Gomes",
+            "email": "hellish.doom@gmail.com"
+        }
+    ],
+    "require": {
+        "league/oauth2-client": "^2.4",
+        "vlucas/phpdotenv": "^3.6"
+    }
+}
